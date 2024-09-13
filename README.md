@@ -1,0 +1,1 @@
+This will be my first project from the Odin Project, the purpose is to practice and review my HTML, CSS, and Javascript skills
