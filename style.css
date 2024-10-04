@@ -1,6 +1,19 @@
 h1 {
     font-family: 'Lucida Handwriting', cursive;
 }
+
 body {
     background-color: #ffe082;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 20px;
+    color: black;
+}
+
+a:hover {
+    font-size: 30px;
+    color: #696969;
 }
